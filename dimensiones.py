@@ -1,0 +1,13 @@
+# dimensiones.py
+
+# Dimensiones generales
+ANCHO_VENTANA = 600
+ALTO_VENTANA = 600
+TAMANO_GRID = 4  # Matriz de 4x4
+TAMANO_CASILLA = ANCHO_VENTANA // TAMANO_GRID
+
+# Paleta de colores en RGB
+COLOR_FONDO = (25, 25, 35)
+COLOR_PIEZA = (50, 120, 200)
+COLOR_TEXTO = (255, 255, 255)
+COLOR_BORDE = (20, 20, 30)
